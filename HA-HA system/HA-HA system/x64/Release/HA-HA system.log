@@ -1,7 +1,8 @@
-﻿  total-coomander.cpp
+﻿  plan.cpp
+C:\Users\murza\source\repos\HA-HA system\HA-HA system\plan.cpp(57,45): warning C4805: ==: небезопасное смешение типа "BOOL" и типа "bool" в операции
   Создание кода
-  0 of 633 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  3 of 1378 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    2 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
   HA-HA system.vcxproj -> C:\Users\murza\source\repos\HA-HA system\x64\Release\HA-HA system.exe

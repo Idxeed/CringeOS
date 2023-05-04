@@ -11,6 +11,7 @@
 #include "boot.h"
 #include "Unistaller.h"
 #include "filesercher.h"
+#include "plan.h"
 
 using namespace std;
 
@@ -51,6 +52,11 @@ void commandChecker(string input1)
 	{
 		filesercher();
 		System1();
+	}
+	if (input1 == "/tasklistener")
+	{
+		taskLinstener();
+		System1;
 	}
 	else
 	{

@@ -163,6 +163,7 @@
   <ItemGroup>
     <ClCompile Include="boot.cpp" />
     <ClCompile Include="Installer.cpp" />
+    <ClCompile Include="plan.cpp" />
     <ClCompile Include="Start.cpp" />
     <ClCompile Include="System.cpp" />
     <ClCompile Include="total-coomander.cpp" />
@@ -172,6 +173,7 @@
     <ClInclude Include="boot.h" />
     <ClInclude Include="filesercher.h" />
     <ClInclude Include="Installer.h" />
+    <ClInclude Include="plan.h" />
     <ClInclude Include="Start.h" />
     <ClInclude Include="System.h" />
     <ClInclude Include="Unistaller.h" />
